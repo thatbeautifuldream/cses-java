@@ -27,8 +27,8 @@ Output:
 3 10 5 16 8 4 2 1
 ```
 
-[]: # Language: Java
-[]: # Path: 001-Introductory Problems/WeirdAlgorithm.java
+[] # Language: Java
+[] # Path: 001-Introductory Problems/WeirdAlgorithm.java
 
 ## Solution
 
